@@ -25,7 +25,7 @@ Soft Skills
 
   <img align="center" alt="anapaula" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="max-width:50%"> <img align="center" alt="anapaula" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" style="max-width:50%"> <img align="center" alt="anapaula" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original-wordmark.svg" style="max-width:50%"> <img align="center" alt="anapaula" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original-wordmark.svg" style="max-width:50%"> <img align="center" alt="anapaula" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="max-width:50%"> <img align="center" alt="anapaula" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
 
-Resumo do GitHub
+Resumo do GitHub 2021
 ------
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaPaulaSouza&show_icons=true&theme=radical)
