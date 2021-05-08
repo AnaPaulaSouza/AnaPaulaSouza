@@ -14,14 +14,19 @@ Sobre Mim
 
 
   - :woman_technologist: Trabalho com Java e Elixir
-  - :computer: Estou aprendendo mais sobre arquitetura e código limpo
+  - :computer: Aprendendo mais sobre Arquitetura e Código limpo
   - :student:	Estudo Engenharia da Computação (10/10) na UAM
-  - :purple_heart: Sempre tentando ajudar outros devs da melhor forma possível
+  - :purple_heart: Estou sempre tentando ajudar outros devs da melhor forma possível, principalmente iniciantes
+  - :two_women_holding_hands: Amo incentivar e empoderar mulheres na área de TI :sunflower:	
   
+
 Soft Skills
 ------
 
   <img align="center" alt="anapaula" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="max-width:50%"> <img align="center" alt="anapaula" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" style="max-width:50%"> <img align="center" alt="anapaula" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original-wordmark.svg" style="max-width:50%"> <img align="center" alt="anapaula" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original-wordmark.svg" style="max-width:50%"> <img align="center" alt="anapaula" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="max-width:50%"> <img align="center" alt="anapaula" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaPaulaSouza&show_icons=true&theme=radical)
+
 
 Onde me encontrar
 ------
