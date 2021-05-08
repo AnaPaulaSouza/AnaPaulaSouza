@@ -20,7 +20,7 @@ Sobre Mim
   - :two_women_holding_hands: Amo incentivar e empoderar mulheres na área de TI :sunflower:	
   
 
-Soft Skills
+Habilidades
 ------
 
   <img align="center" alt="anapaula" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="max-width:50%"> <img align="center" alt="anapaula" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" style="max-width:50%"> <img align="center" alt="anapaula" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original-wordmark.svg" style="max-width:50%"> <img align="center" alt="anapaula" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original-wordmark.svg" style="max-width:50%"> <img align="center" alt="anapaula" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="max-width:50%"> <img align="center" alt="anapaula" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
