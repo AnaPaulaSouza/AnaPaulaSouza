@@ -23,7 +23,10 @@ Sobre Mim
 Soft Skills
 ------
 
-  <img align="center" alt="anapaula" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="max-width:50%"> <img align="center" alt="anapaula" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" style="max-width:50%"> <img align="center" alt="anapaula" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original-wordmark.svg" style="max-width:50%"> <img align="center" alt="anapaula" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original-wordmark.svg" style="max-width:50%"> <img align="center" alt="anapaula" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="max-width:50%"> <img align="center" alt="anapaula" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="anapaula" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="max-width:50%"> <img align="center" alt="anapaula" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" style="max-width:50%"> <img align="center" alt="anapaula" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original-wordmark.svg" style="max-width:50%"> <img align="center" alt="anapaula" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original-wordmark.svg" style="max-width:50%"> <img align="center" alt="anapaula" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="max-width:50%"> <img align="center" alt="anapaula" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+
+Resumo do GitHub
+------
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaPaulaSouza&show_icons=true&theme=radical)
 
@@ -45,6 +48,7 @@ Onde me encontrar
   <a href="https://www.facebook.com/AnaPdSS97/" target="_blank">
   <img align="center" alt="anapaula-linkedin" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" style="max-width:100%"
   </a>
+
 
 <!--
 **AnaPaulaSouza/AnaPaulaSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
