@@ -5,7 +5,7 @@ Desenvolvedora Back End :robot:
 
 Sou entusiasta, crítica, curiosa e apaixonada por inovação. :purple_heart:	 
 
-Acredito que a tecnologia pode transformar o mundo e meu objetivo é trabalhar em empresas alinhadas com esta visão, que além de ter grandes projetos desafiadores, me permitam evoluir como profissional.
+Acredito que a tecnologia pode transformar o mundo e meu objetivo é trabalhar em empresas alinhadas com esta visão, que além de ter grandes projetos desafiadores, me permitam evoluir como profissional.	:rocket:	
 
 
 Sobre Mim
