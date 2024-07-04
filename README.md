@@ -15,8 +15,8 @@ Sobre Mim
 
   - :woman_technologist: Trabalho com Java e Elixir
   - :computer: Aprendendo mais sobre Arquitetura e Código limpo
-  - :student:	Estudo Engenharia da Computação (10/10) na UAM
-  - :purple_heart: Estou sempre tentando ajudar outros devs da melhor forma possível, principalmente iniciantes
+  - :student:	Formada em Engenharia da Computação
+  - :purple_heart: Estou sempre tentando ajudar outros devs da melhor forma possível
   - :two_women_holding_hands: Amo incentivar e empoderar mulheres na área de TI :sunflower:	
   
 
